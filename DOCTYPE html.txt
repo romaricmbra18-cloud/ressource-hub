@@ -201,3 +201,4 @@ localStorage.setItem('resources', JSON.stringify(list.filter(r => r.id !== id)))
 </script>
 </body>
 </html>
+
